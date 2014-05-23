@@ -1,3 +1,4 @@
 heroku addons:add redistogo
 heroku config:add HEROKU_URL=http://stark-eyrie-1097.herokuapp.com/
 heroku config:set HUBOT_IDOBATA_API_TOKEN=#{your_hubot_idobata_api_token}
+heroku config:set HUBOT_NAME=omoikane
