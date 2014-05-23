@@ -1,1 +1,2 @@
 heroku addons:add redistogo
+heroku config:add HEROKU_URL=http://stark-eyrie-1097.herokuapp.com/
