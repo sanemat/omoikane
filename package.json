@@ -27,6 +27,7 @@
     "hubot-53cal-jp": "^0.2.0",
     "hubot-ascii-faces": "^1.0.2",
     "hubot-google-transliterate": "^0.1.0",
+    "hubot-hotpepper": "^0.1.4",
     "hubot-idobata": "0.0.3",
     "hubot-phonetic-alphabet": "^0.1.0",
     "hubot-reaction": "0.0.6",
