@@ -4,5 +4,6 @@
   "hubot-ascii-faces",
   "hubot-tantanmen",
   "hubot-phonetic-alphabet",
-  "hubot-53cal-jp"
+  "hubot-53cal-jp",
+  "hubot-google-transliterate"
 ]
