@@ -34,6 +34,7 @@
     "hubot-phonetic-alphabet": "^0.1.0",
     "hubot-reaction": "0.0.6",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
+    "hubot-tabelog": "0.0.4",
     "hubot-tantanmen": "^0.1.1"
   },
   "engines": {

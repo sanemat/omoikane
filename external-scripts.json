@@ -8,5 +8,6 @@
   "hubot-google-transliterate",
   "hubot-hotpepper",
   "hubot-dragonball",
-  "hubot-nullpo"
+  "hubot-nullpo",
+  "hubot-tabelog"
 ]
