@@ -36,7 +36,8 @@
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "hubot-tabelog": "0.0.4",
     "hubot-tantanmen": "^0.1.1",
-    "hubot-weather-ja": "0.0.1"
+    "hubot-weather-ja": "0.0.1",
+    "hubot-worldcup": "^0.2.1"
   },
   "engines": {
     "node": ">= 0.8.x",
