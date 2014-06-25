@@ -11,5 +11,6 @@
   "hubot-nullpo",
   "hubot-tabelog",
   "hubot-weather-ja",
-  "hubot-worldcup"
+  "hubot-worldcup",
+  "hubot-self-uptime"
 ]
