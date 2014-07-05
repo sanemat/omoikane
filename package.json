@@ -33,7 +33,7 @@
     "hubot-google-transliterate": "^0.1.0",
     "hubot-hotpepper": "^0.1.4",
     "hubot-idobata": "0.0.4",
-    "hubot-lets-party": "sanemat/hubot-lets-party",
+    "hubot-lets-party": "^0.1.0",
     "hubot-nullpo": "0.0.3",
     "hubot-phonetic-alphabet": "^0.1.0",
     "hubot-reaction": "0.0.6",
